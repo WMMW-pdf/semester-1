@@ -1,0 +1,3 @@
+# About Me
+this is Dan Zhang, comp1850 student 
+i love kfc....
