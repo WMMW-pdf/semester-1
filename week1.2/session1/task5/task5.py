@@ -9,7 +9,7 @@ rivers = {
 print(rivers)
 
 # Add two new entries to the rivers database
-
+rivers.updates(" \"china:\"=\"huanghe\",\"china=\"= changjiang\" ")
 # Display all the keys
 
 # Display all the values
