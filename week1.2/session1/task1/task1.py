@@ -14,7 +14,6 @@ print(shopping)
 
 shopping.remove("eggs")
 print(shopping)
-
 # Replace bananas with grapes
 shopping[3]=" grapes"
 print(shopping)
