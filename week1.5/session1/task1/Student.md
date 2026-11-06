@@ -1,5 +1,10 @@
 # Student Class
 
 ## Attributes
-
-## Behaviour
+-student Id
+-name
+-major
+-state
+## Behaviours
+submit_work
+GPA

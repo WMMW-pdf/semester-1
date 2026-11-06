@@ -32,3 +32,7 @@ class Point:
         Returns distance of this Point from another Point.
         """
         return math.hypot(self.x - p.x, self.y - p.y)
+p1=Point(3,4)
+print("Distance from origin:",p1.distance())
+p2=Point(0,0)
+print("Distance between points:",p1.distance_to(p2))
