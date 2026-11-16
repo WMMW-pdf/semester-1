@@ -6,6 +6,7 @@ from point import Point
 from shapes import Circle
 
 circle = Circle(2.5, Point(0.0, 0.0))
+
 print(circle)
 
 print(f"Area = {circle.area():.3f}")
